@@ -15,7 +15,7 @@ Here, I’ve listed the problems I’ve authored and the contests I’ve helped 
 ## 🏆 Contest Coordination
 
 | Contest | Role | Description | Link |
-|----------|------|------|-------------|------|
+|----------|------|-------------|------|
 | CoU CSE Fest 2025 - Inter University Programming Contest | Coordinator & Judge | Managed problem setting, test data, and on-site contest logistics. | [Contest Link](https://codeforces.com/gym/106057) |
 Intra CoU Programming Contest | Coordinator & Judge | Managed problem setting, test data, and on-site contest logistics. | [Contest Link](https://toph.co/contests/training/4xbazap) |
 
