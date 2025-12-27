@@ -8,6 +8,7 @@ Here, I’ve listed the problems I’ve authored and the contests I’ve helped 
 |------------------|------|------------------------|------|
 | CodeChef Starters 109 | Problem Setter | Authored a rated round problem for CodeChef’s Starters 109 contest. | [CodeChef Problem](https://www.codechef.com/problems/CLARR) |
 | CoU CSE Fest 2025 - Inter University Programming Contest | Problem Setter | Created problems I, J and K | [Contest Link](https://codeforces.com/gym/106057) |
+| DDN presents Inter University Programming Contest - IIUC Tech Fest 2025 | Problem Setter | Created problem B | [Problem Link](https://toph.co/p/reversal-machine) |
 | Junior IUPC(Inter University Programming Contest) Hosted by BAIUST | Problem Setter | Created problem H which remained unsolved | [Contest Link](https://coderoj.com/c/baiust-iupc-25/standings) |
 | Intra CoU Programming Contest | Problem Setter | Created multiple problems covering algorithms, data structures, and number theory. | [Contest Link](https://toph.co/contests/training/4xbazap) |
 
